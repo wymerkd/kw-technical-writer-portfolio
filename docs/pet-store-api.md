@@ -1,6 +1,7 @@
 ---
 title: Swagger CDN
 layout: swagger
+nav_order: 2
 ---
 
 <div id="pet-store-api"></div>
